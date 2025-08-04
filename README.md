@@ -3,3 +3,9 @@ This is the Associate Data Analyst in SQL career track which includes SQL skills
 I've completed the following projects.
 * Analyzing Students' Mental Health
 (https://www.datacamp.com/datalab/w/4c82bab7-3d5d-4a53-9c00-c192d4657a3d/edit)
+
+Course: Introduction to Statistics
+1. Summary Statistics
+2. Probability and distributions
+3. More Distributions and the Central Limit Theorem
+4. Correlation and Hypothesis Testing
