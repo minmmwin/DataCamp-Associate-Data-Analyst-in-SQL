@@ -10,3 +10,8 @@ Course: Introduction to Statistics
 2. Probability and distributions
 3. More Distributions and the Central Limit Theorem
 4. Correlation and Hypothesis Testing
+
+My statement of Accomplishment can be found in the following link:
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/aa860f7c00cad84fa367307dcff0218a33990c2b
+
