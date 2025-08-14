@@ -13,3 +13,12 @@ Course: Introduction to Statistics
 
 My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/aa860f7c00cad84fa367307dcff0218a33990c2b)
 
+Course: Exploratory Data Analysis in SQL
+1. What's in the Database?
+2. Summarizing and Aggregating Numeric Data
+3. Exploring Categorical Data and Unstructured Text
+4. Working with Dates and Timestamps
+
+My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/10356d3331b0fbb07428488e9a4e35cfa83928e5)
+
+
