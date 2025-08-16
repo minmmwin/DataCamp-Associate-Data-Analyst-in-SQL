@@ -21,4 +21,7 @@ Course: Exploratory Data Analysis in SQL
 
 My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/10356d3331b0fbb07428488e9a4e35cfa83928e5)
 
+Course: Data-Driven Decision Making in SQL
+1. Introduction to business intelligence for a online movie rental database
+2. Decision Making with simple SQL queries
 
