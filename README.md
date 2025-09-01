@@ -24,4 +24,9 @@ My statement of Accomplishment can be found in the following link: (https://www.
 Course: Data-Driven Decision Making in SQL
 1. Introduction to business intelligence for a online movie rental database
 2. Decision Making with simple SQL queries
+3. Data Driven Decision Making with advanced SQL queries
+4. Data Driven Decision Making with OLAP SQL queries
+
+My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/498dbad2568a43af7d97553ec32146070ae9bb63)
+
 
