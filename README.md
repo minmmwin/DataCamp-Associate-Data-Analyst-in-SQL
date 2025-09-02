@@ -32,11 +32,14 @@ My statement of Accomplishment can be found in the following link: (https://www.
 Course: Understanding Data Visualization
 1. Visualizing distributions
    - the value of visualizations, using real-world data on British monarchs, Australian salaries, Panamanian animals, and US cigarette consumption, to graphically represent the spread of      a variable using histograms and box plots
-3. Visualizing two variables
-   - How to interpret data plots and understand core data visualization concepts such as correlation, linear relationships, and log scales
-   - How to explore the relationship between two continuous variables using scatter plots and line plots
+2. Visualizing two variables
+   - Interpret data plots and understand core data visualization concepts such as correlation, linear relationships, and log scales
+   - Explore the relationship between two continuous variables using scatter plots and line plots
    - Explore data on life expectancies, technology adoption, COVID-19 coronavirus cases, and Swiss juvenile offenders
    - Two other popular visualizations—bar plots and dot plots—often used to examine the relationship between categorical variables and continuous variables
    - Explore famous athletes, health survey data, and the price of a Big Mac around the world
+3. The color and the shape
+   -  Discover how one can add color and shape to make data visualizations clearer and easier to understand, especially when working with more than two variables at the same time
+   -  Explore Los Angeles home prices, technology stock prices, math anxiety, the greatest hiphop songs, scotch whisky preferences, and fatty acids in olive oil
 
 
