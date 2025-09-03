@@ -42,4 +42,9 @@ Course: Understanding Data Visualization
    -  Discover how one can add color and shape to make data visualizations clearer and easier to understand, especially when working with more than two variables at the same time
    -  Explore Los Angeles home prices, technology stock prices, math anxiety, the greatest hiphop songs, scotch whisky preferences, and fatty acids in olive oil
 
+4. 99 problems but a plot ain't one of them
+   - Identify and avoid the most common plot problems
+   - Avoid creating misleading or hard to interpret plots
+   - Explore wind directions, asthma incidence, and seats in the German Federal Council 
 
+My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/9721c80755fea60fbdd0148a78cc92ae87a8602e)
