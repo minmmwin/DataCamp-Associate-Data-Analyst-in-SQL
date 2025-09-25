@@ -31,7 +31,7 @@ My statement of Accomplishment can be found in the following link: (https://www.
 
 Course: Understanding Data Visualization
 1. Visualizing distributions
-   - the value of visualizations, using real-world data on British monarchs, Australian salaries, Panamanian animals, and US cigarette consumption, to graphically represent the spread of      a variable using histograms and box plots
+   - the value of visualizations, using real-world data on British monarchs, Australian salaries, Panamanian animals, and US cigarette consumption, to graphically represent the spread of a variable using histograms and box plots
 2. Visualizing two variables
    - Interpret data plots and understand core data visualization concepts such as correlation, linear relationships, and log scales
    - Explore the relationship between two continuous variables using scatter plots and line plots
@@ -48,3 +48,7 @@ Course: Understanding Data Visualization
    - Explore wind directions, asthma incidence, and seats in the German Federal Council 
 
 My statement of Accomplishment can be found in the following link: (https://www.datacamp.com/completed/statement-of-accomplishment/course/9721c80755fea60fbdd0148a78cc92ae87a8602e)
+
+Course: Data Communication Concepts
+1. Storytelling with Data
+   - Aquire best practices to influence how decisions are made before learning how to translate technical results into stories for non-technical stakeholders.
